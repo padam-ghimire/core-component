@@ -1,6 +1,6 @@
 <?php
 
-namespace MehediIitdu\CoreComponentRepository;
+namespace Padam\CoreComponentRepository;
 
 class CoreComponentRepository
 {
